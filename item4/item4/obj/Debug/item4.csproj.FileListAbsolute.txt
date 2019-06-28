@@ -1,0 +1,7 @@
+C:\Users\ANYA\source\repos\item4\item4\bin\Debug\item4.exe.config
+C:\Users\ANYA\source\repos\item4\item4\bin\Debug\item4.exe
+C:\Users\ANYA\source\repos\item4\item4\bin\Debug\item4.pdb
+C:\Users\ANYA\source\repos\item4\item4\obj\Debug\item4.csproj.CoreCompileInputs.cache
+C:\Users\ANYA\source\repos\item4\item4\obj\Debug\item4.exe
+C:\Users\ANYA\source\repos\item4\item4\obj\Debug\item4.pdb
+C:\Users\ANYA\source\repos\item4\item4\obj\Debug\item4.csprojAssemblyReference.cache
