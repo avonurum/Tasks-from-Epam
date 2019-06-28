@@ -1,0 +1,7 @@
+C:\Users\ANYA\source\repos\item5\item5\obj\Debug\item5.csprojAssemblyReference.cache
+C:\Users\ANYA\source\repos\item5\item5\obj\Debug\item5.csproj.CoreCompileInputs.cache
+C:\Users\ANYA\source\repos\item5\item5\bin\Debug\item5.exe.config
+C:\Users\ANYA\source\repos\item5\item5\bin\Debug\item5.exe
+C:\Users\ANYA\source\repos\item5\item5\bin\Debug\item5.pdb
+C:\Users\ANYA\source\repos\item5\item5\obj\Debug\item5.exe
+C:\Users\ANYA\source\repos\item5\item5\obj\Debug\item5.pdb
